@@ -1,0 +1,4 @@
+pour lancer le programme il faut :
+- avoir python 3 (en général plus la version est récente, plus vite fonctionera le jeux)
+- utiliser un ordinateur avec un processeur apres un Intel Core 2 Duo
+- avoir la librairie pygame (les autres livrairies (sys,os,random,math) devraient être installée en même temps que python)
